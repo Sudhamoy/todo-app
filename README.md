@@ -1,10 +1,15 @@
+(i) How to debug reducers(states info and changes of reducer)
+(ii) How to work with multiple reducer
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:y
 
 ### `npm start`
 
